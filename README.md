@@ -19,3 +19,11 @@ cd apkizer
 pip3 install -r requirements.txt
 cd ..
 ```
+
+#Useful files
+```
+https://bitbucket.org/JesusFreke/smali/downloads/
+https://sourceforge.net/p/dex2jar/wiki/UserGuide/
+https://github.com/skylot/jadx/releases/tag/v1.3.2
+https://lindevs.com/install-jadx-on-ubuntu/
+```
